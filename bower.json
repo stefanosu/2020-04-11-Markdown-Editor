@@ -1,0 +1,21 @@
+{
+  "name": "2020-04-11-Markdown-Editor",
+  "homepage": "https://github.com/stefanosu/2020-04-11-Markdown-Editor",
+  "authors": [
+    "Stefanos <stefanosu422@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "showdown": "^1.9.1"
+  }
+}

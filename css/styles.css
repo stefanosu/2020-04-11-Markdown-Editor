@@ -1,0 +1,8 @@
+#table {
+  display: block;
+}
+#targetDiv {
+border: 1px dashed blue;
+width: 20rem;
+height: 20rem;
+}
